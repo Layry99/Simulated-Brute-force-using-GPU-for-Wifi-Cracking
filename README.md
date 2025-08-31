@@ -47,7 +47,7 @@ Procedure
 
     <img width="817" height="202" alt="image" src="https://github.com/user-attachments/assets/73bae0d0-efc8-4a04-93db-4a5131fb3223" />
 
-    Enter this command to only focus on the target network : **sudo airodump-ng -c <CH> --bssid <BSSID> -w capture wlan0**
+    Enter this command to only focus on the target network : **sudo airodump-ng -c `<CH>` --bssid `<BSSID>` -w capture wlan0**
 
     We need to take note of the BSSID and the Station. BSSID is the target network, and Station is the device connected to it. In order to perform this hack, we must carry out the deauthentication process, where we simply kick out the connected device and ask them to re-enter the password to capture the handshake, which we then can use Hashcat to perform the brute-force attack using GPU.
 
