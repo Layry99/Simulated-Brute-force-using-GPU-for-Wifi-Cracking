@@ -53,7 +53,7 @@ Procedure
 
     <img width="777" height="160" alt="image" src="https://github.com/user-attachments/assets/332d75e0-94ad-43a1-a849-f4178461a96e" />
 
-    Enter this command to carry out deauthentication process : **sudo aireplay-ng --deauth 5 -a <BSSID> -c <CLIENT_MAC> wlan0**
+    Enter this command to carry out deauthentication process : **sudo aireplay-ng --deauth 5 -a `<BSSID>` -c `<CLIENT_MAC>` wlan0**
 
     In this process, the connected device will be forced to disconnect from the network and reconnect, allowing us to capture the handshake.
 
