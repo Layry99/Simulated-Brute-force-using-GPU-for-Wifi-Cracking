@@ -1,4 +1,7 @@
-EDUCATION PURPOSE ONLY
+Disclaimer:
+This project is intended for educational and research purposes only.
+Do NOT use this on networks or systems you do not own or have permission to test.
+The author is not responsible for any misuse of this code.
 
 Projet description
 
