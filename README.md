@@ -1,3 +1,5 @@
+EDUCATION PURPOSE ONLY
+
 Projet description
 This project is used to brute-force wifi password using GPU.
 
